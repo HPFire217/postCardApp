@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     
     
     // Just a commit to test commit for github!
+    // Day 2 to test if commit works!
     
     
     override func viewDidLoad() {
