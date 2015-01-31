@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     // Just a commit to test commit for github!
     // Day 2 to test if commit works!
     // TESTING TESTIN 123 dont know why github isnt updating this file
+    // Hey what's up Kurt! hows it going
     
     
     
