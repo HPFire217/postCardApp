@@ -95,7 +95,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="20" y="123" width="284" height="35"/>
+                                    <rect key="frame" x="20" y="81" width="284" height="119"/>
                                 </variation>
                                 <connections>
                                     <segue destination="nys-Tc-ksJ" kind="show" id="PFA-dw-qNQ"/>
